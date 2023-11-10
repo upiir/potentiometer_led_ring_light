@@ -1,5 +1,5 @@
 # LED Ring Light for Potentiometer - Pimp My Potentiometer!
-LED Ring Light for Potentiometer - Pimp My Potentiometer!
+Learn how to control the LED ring light that should be placed around the Rotary Encoder or Potentiometer, and has 32 small yellow LEDs - 31 tickmarks and one dot. Since Arduino UNO only has 14 digital pins, we need to use multiplexing to controll all 32 LEDs. Those LEDs are connected as 4 groups with common cathodes, so we will use 8+4=12 wires, and 12 digital pins on Arduino UNO. 
 
 **Youtube video: https://youtu.be/tHL4RYGSvg4**
 
